@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608360fff"
+  },
+  "code": "CVAAT00",
+  "permission_name": "can view all active ticket",
+  "groupBy": "view"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361000"
+  },
+  "code": "CVACT00",
+  "permission_name": "can view all close ticket",
+  "groupBy": "view"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361001"
+  },
+  "code": "CVMCAAT00",
+  "permission_name": "can view my category all active ticket",
+  "groupBy": "view"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361002"
+  },
+  "code": "CVMCACT00",
+  "permission_name": "can view my category all close ticket",
+  "groupBy": "view"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361003"
+  },
+  "code": "CVMCMAT00",
+  "permission_name": "can view my category my active ticket",
+  "groupBy": "view"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361004"
+  },
+  "code": "CVMCMCT00",
+  "permission_name": "can view my category my close ticket",
+  "groupBy": "view"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361005"
+  },
+  "code": "CTMT01",
+  "permission_name": "can transfer my ticket",
+  "groupBy": "transfer ticket"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361006"
+  },
+  "code": "CTAT01",
+  "permission_name": "can transfer any ticket",
+  "groupBy": "transfer ticket"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361007"
+  },
+  "code": "CTATSELF01",
+  "permission_name": "can transfer any ticket to myself",
+  "groupBy": "transfer ticket"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361008"
+  },
+  "code": "CRTC10",
+  "permission_name": "can raise ticket for customer",
+  "groupBy": "raise_ticket"
+},{
+  "_id": {
+    "$oid": "60cb11442e2e8b2608361009"
+  },
+  "code": "CRTI10",
+  "permission_name": "can raise ticket for internal",
+  "groupBy": "raise_ticket"
+},{
+  "_id": {
+    "$oid": "60cb13f9ced28d9a2def9fee"
+  },
+  "code": "AT11",
+  "permission_name": "Can Handle Ticket",
+  "groupBy": "Ticket"
+}]

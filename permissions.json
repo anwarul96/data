@@ -1,0 +1,267 @@
+[{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fd6"
+  },
+  "code": "C10",
+  "groupBy": "course",
+  "permission_name": "Create Course"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fd7"
+  },
+  "code": "SUB01",
+  "groupBy": "subject",
+  "permission_name": "Create Subject"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fd8"
+  },
+  "code": "U00",
+  "groupBy": "user",
+  "permission_name": "Read User Data"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fd9"
+  },
+  "code": "S10",
+  "groupBy": "student",
+  "permission_name": "Update Student Information"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fda"
+  },
+  "code": "TM11",
+  "groupBy": "live session",
+  "permission_name": "Trainer Mode"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fdb"
+  },
+  "code": "C00",
+  "groupBy": "course",
+  "permission_name": "Read Course"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fdc"
+  },
+  "code": "LS00",
+  "groupBy": "live session",
+  "permission_name": "Access Live Session Chat"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fdd"
+  },
+  "code": "U11",
+  "groupBy": "user",
+  "permission_name": "Disabled User"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fde"
+  },
+  "code": "C01",
+  "groupBy": "course",
+  "permission_name": "Edit Course"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fdf"
+  },
+  "code": "LSS11",
+  "groupBy": "live session",
+  "permission_name": "Assign live session chat setting"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe0"
+  },
+  "code": "RS00",
+  "groupBy": "student",
+  "permission_name": "Read Student Information"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe1"
+  },
+  "code": "SUB00",
+  "groupBy": "subject",
+  "permission_name": "Read Subject"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe2"
+  },
+  "code": "B10",
+  "groupBy": "batch",
+  "permission_name": "Create Batch"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe3"
+  },
+  "code": "SUB10",
+  "groupBy": "subject",
+  "permission_name": "Update Subject"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe4"
+  },
+  "code": "S00",
+  "groupBy": "student",
+  "permission_name": "Student Only"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe5"
+  },
+  "code": "SUB11",
+  "groupBy": "subject",
+  "permission_name": "Delete Subject"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe6"
+  },
+  "code": "U10",
+  "groupBy": "user",
+  "permission_name": "Update User"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe7"
+  },
+  "code": "B01",
+  "groupBy": "batch",
+  "permission_name": "Update Batch"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe8"
+  },
+  "code": "C11",
+  "groupBy": "course",
+  "permission_name": "Disabled Course"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fe9"
+  },
+  "code": "CS10",
+  "groupBy": "student",
+  "permission_name": "Create Student"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fea"
+  },
+  "code": "B00",
+  "groupBy": "batch",
+  "permission_name": "View Batch Information"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0feb"
+  },
+  "code": "U01",
+  "groupBy": "user",
+  "permission_name": "Create User"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fec"
+  },
+  "code": "B11",
+  "groupBy": "batch",
+  "permission_name": "Disabled Batch"
+},{
+  "_id": {
+    "$oid": "60ae433d2dec6a39607b0fed"
+  },
+  "code": "AS10",
+  "groupBy": "batch",
+  "permission_name": "Add Student Into Batch"
+},{
+  "_id": {
+    "$oid": "60b715f088b7c311884525b4"
+  },
+  "code": "US01",
+  "permission_name": "Update Student Profile",
+  "groupBy": "student"
+},{
+  "_id": {
+    "$oid": "60b7489a88b7c311884525b5"
+  },
+  "code": "USE01",
+  "permission_name": "Update Student Email",
+  "groupBy": "student"
+},{
+  "_id": {
+    "$oid": "60b748c688b7c311884525b6"
+  },
+  "code": "USB01",
+  "permission_name": "Update Student Batch",
+  "groupBy": "student"
+},{
+  "_id": {
+    "$oid": "60b85a2c29937bf75d527488"
+  },
+  "code": "CAT01",
+  "permission_name": "Create Category",
+  "groupBy": "category"
+},{
+  "_id": {
+    "$oid": "60b85a7829937bf75d527489"
+  },
+  "code": "CAT00",
+  "permission_name": "Read Category",
+  "groupBy": "category"
+},{
+  "_id": {
+    "$oid": "60b85ac529937bf75d52748b"
+  },
+  "code": "CAT10",
+  "permission_name": "Edit Category",
+  "groupBy": "category"
+},{
+  "_id": {
+    "$oid": "60b85b0729937bf75d52748c"
+  },
+  "code": "CAT11",
+  "permission_name": "Disabled Category",
+  "groupBy": "category"
+},{
+  "_id": {
+    "$oid": "60bb0c3a8a2ef4f307ac06d4"
+  },
+  "code": "BLOG01",
+  "permission_name": "Create Knowledge",
+  "groupBy": "knowledge"
+},{
+  "_id": {
+    "$oid": "60bb0c9d8a2ef4f307ac06d5"
+  },
+  "code": "BLOG10",
+  "permission_name": "Update Knowledge",
+  "groupBy": "knowledge"
+},{
+  "_id": {
+    "$oid": "60bb0cd18a2ef4f307ac06d6"
+  },
+  "code": "BLOG00",
+  "permission_name": "View Knowledge",
+  "groupBy": "knowledge"
+},{
+  "_id": {
+    "$oid": "60bb0d048a2ef4f307ac06d7"
+  },
+  "code": "BLOG010",
+  "permission_name": "can see who wrote Knowledge",
+  "groupBy": "knowledge"
+},{
+  "_id": {
+    "$oid": "60bb0d428a2ef4f307ac06d8"
+  },
+  "code": "BLOG11",
+  "permission_name": "Published/Unpublished",
+  "groupBy": "knowledge"
+},{
+  "_id": {
+    "$oid": "60cdce3ee74bec2e0c0b5100"
+  },
+  "code": "CPIE",
+  "permission_name": "Create Priorities",
+  "groupBy": "priority"
+},{
+  "_id": {
+    "$oid": "60cdcf10e74bec2e0c0b5101"
+  },
+  "code": "UPIE",
+  "permission_name": "Update Priority",
+  "groupBy": "priority"
+}]

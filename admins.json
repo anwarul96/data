@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "60cb1fc719013b3224d3506a"
+  },
+  "batch_ids": [],
+  "disabled": false,
+  "permissions": [
+    "C10",
+    "SUB01",
+    "U00",
+    "S10",
+    "TM11",
+    "C00",
+    "LS00",
+    "U11",
+    "C01",
+    "LSS11",
+    "RS00",
+    "SUB00",
+    "B10",
+    "SUB10",
+    "S00",
+    "SUB11",
+    "U10",
+    "B01",
+    "C11",
+    "CS10",
+    "B00",
+    "U01",
+    "B11",
+    "AS10",
+    "US01",
+    "USE01",
+    "USB01",
+    "CAT01",
+    "CAT00",
+    "CAT10",
+    "CAT11",
+    "BLOG01",
+    "BLOG10",
+    "BLOG00",
+    "BLOG010",
+    "BLOG11",
+    "CPIE",
+    "UPIE"
+  ],
+  "ticket_handle_category": [],
+  "active_days": [
+    "Sunday",
+    "Tuesday",
+    "Wednesday",
+    "Monday"
+  ],
+  "ticket_permission": [
+    "CVAAT00",
+    "CVACT00",
+    "CVMCAAT00",
+    "CVMCACT00",
+    "CVMCMAT00",
+    "CVMCMCT00",
+    "CTMT01",
+    "CTAT01",
+    "CTATSELF01",
+    "CRTC10",
+    "CRTI10",
+    "AT11"
+  ],
+  "name": "Admin",
+  "email": "admin@datatrained.com",
+  "user_type": "Admin",
+  "password": "$2a$10$f/5RhpfNqTDMLKEq7h9EAeisH3RTgqspxTQztZlAl1182E.3s4pZm",
+  "office_start_time": {
+    "$date": "2021-06-17T04:30:41.489Z"
+  },
+  "office_end_time": {
+    "$date": "2021-06-17T13:30:53.241Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-17T10:11:19.158Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-28T08:46:49.311Z"
+  },
+  "__v": 0
+}]
